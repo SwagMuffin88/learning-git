@@ -1,0 +1,10 @@
+Working with git
+NEW FEATURE:
+1. Pull the latest changes from the master down to your local machine
+
+2. Create new branch (git check -b)
+
+3. Work on the feature
+Advisable:
+
+4. Rebase the changes against Master - if you've been working on the feature for a few days (the master will move on)
